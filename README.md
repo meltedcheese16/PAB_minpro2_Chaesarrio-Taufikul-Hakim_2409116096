@@ -21,8 +21,7 @@ Aplikasi ini terintegrasi dengan backend **Supabase** untuk penyimpanan data rea
 - Form input dengan validasi data
 - Feedback sukses/error dengan SnackBar
 
-<img width="1267" height="171" alt="image" src="https://github.com/user-attachments/assets/0ddea9b2-a529-43cf-967e-6dfe92254750" />
-
+<img width="1291" height="605" alt="image" src="https://github.com/user-attachments/assets/91cb64ec-7548-495e-9d27-381dad0907b7" />
 
 ### 2. Read (Lihat Menu)
 - Menampilkan daftar semua menu dari database
@@ -30,7 +29,7 @@ Aplikasi ini terintegrasi dengan backend **Supabase** untuk penyimpanan data rea
 - Pull-to-refresh untuk update data terbaru
 - Tampilan empty state jika belum ada menu
 
-<img width="1291" height="605" alt="image" src="https://github.com/user-attachments/assets/91cb64ec-7548-495e-9d27-381dad0907b7" />
+<img width="1267" height="171" alt="image" src="https://github.com/user-attachments/assets/0ddea9b2-a529-43cf-967e-6dfe92254750" />
 
 
 ### 3. Update (Edit Menu)
